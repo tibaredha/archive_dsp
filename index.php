@@ -36,7 +36,7 @@ git push --set-upstream origin master
 	$color	= "light";
 	
 	// ADD SPECIFIC FILES YOU WANT TO IGNORE HERE
-	$ignore_file_list = array( ".htaccess", "Thumbs.db", ".DS_Store", "index.php", "jquery.min.js","flat.png","css.css",".git" );
+	$ignore_file_list = array( ".htaccess", "Thumbs.db", ".DS_Store", "index.php", "jquery.min.js","flat.png","css.css",".git","README.md" );
 	
 	// ADD SPECIFIC FILE EXTENSIONS YOU WANT TO IGNORE HERE, EXAMPLE: array('psd','jpg','jpeg')
 	$ignore_ext_list = array( );
